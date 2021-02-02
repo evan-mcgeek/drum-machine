@@ -1,6 +1,6 @@
-![]()
+# Drum Machine
 
+(c)Using Simon Servida sample pack. 
+https://www.simonservida.com/free-kits
 
-# Simple Drum Machine
-
-(c)Using Simon Servida sample pack. https://twitter.com/ServidaMusic
+![](https://github.com/evan-mcgeek/drum-machine/blob/main/screenshot.png)
